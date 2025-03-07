@@ -19,3 +19,8 @@
 
 # AI Agent
 - [web-ui](https://github.com/browser-use/web-ui)
+
+# 演講
+
+- [Threat Hunting with LLM: From Discovering APT SAAIWC to Tracking APTs with AI (PRE-RECORDED)](https://www.blackhat.com/us-24/briefings/schedule/#threat-hunting-with-llm-from-discovering-apt-saaiwc-to-tracking-apts-with-ai-pre-recorded-38997)
+  - 威脅情資相關 
