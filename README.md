@@ -16,3 +16,6 @@
 # Course
 
 - [AIS3 2024「情資運用及防禦：威脅情資＆機器學習」課程實作練習](https://github.com/solymx/Web-Log-Analysis-with-Machine-Learning)
+
+# AI Agent
+- [web-ui](https://github.com/browser-use/web-ui)
