@@ -16,6 +16,11 @@
   - Loghub 資料集的 GitHub 連結是 https://github.com/logpai/loghub
   - 缺乏公開的系統日誌資料集: 來源指出，由於隱私顧慮，公司通常不願意釋出其生產日誌，導致研究人員缺乏公開的日誌資料進行 AI 驅動的日誌分析研究。Loghub 透過收集並釋出 19 個來自各種真實世界軟體系統的日誌資料集，填補了這個重要的空白
 
+# 2022
+
+- [IEEE A Comprehensive Review of Anomaly Detection in Web Logs](https://ieeexplore.ieee.org/abstract/document/10062050)
+  - 回顧了針對網路伺服器HTTP日誌異常偵測（WLAD）的不同數據驅動技術，旨在探討近期研究與發展，並分類比較現有方法及其優缺點
+
 # 2021
 - [IEEE Log Anomaly to Resolution: AI Based Proactive Incident Remediation](https://ieeexplore.ieee.org/abstract/document/9678815)
   - 研究起源：SRE 報告指出，由於缺乏足夠資訊，80% 的網站可靠性工程師 (SRE) 工作時間用於事件的事後分析；另有 16% 的工作量來自於調查假陽性/假陰性警報
