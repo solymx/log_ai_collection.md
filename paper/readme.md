@@ -28,4 +28,6 @@
   - 分析log 出現的是人存取還是機器存取 
 - [IEEE - AI-IDS: Application of Deep Learning to Real-Time Web Intrusion Detection](https://ieeexplore.ieee.org/abstract/document/9063416)
   - 本研究提出並應用了一套基於深度學習（CNN-LSTM 模型）的即時網路入侵偵測系統（AI-IDS），旨在有效偵測傳統基於簽章的入侵偵測系統無法識別的新型網路攻擊，並協助改進現有的安全規則
-  - AI-IDS: https://github.com/ackim-fsi/AI-IDS 
+  - AI-IDS: https://github.com/ackim-fsi/AI-IDS
+- [IEEE - AI Powered System Providing Knowledge Based Solution for Errors in Server Logs](https://ieeexplore.ieee.org/abstract/document/9129276)
+  - 利用人工智慧分析伺服器日誌，自動尋找並提供基於知識庫的錯誤解決方案的系統 
